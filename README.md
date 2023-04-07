@@ -1,4 +1,4 @@
-# GIFfusion 💥
+# GIF8fusion Tofast V 0.1 💥
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/7529846/220882002-72cbfdef-876a-4cb2-9f41-e5989e769868.gif" width="256" title="hover text">
